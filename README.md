@@ -9,3 +9,6 @@
 [Release](https://github.com/Spoonail-Iroiro/maginai-letterpack/releases)ページより最新バージョンの配布zip`letterpackMod.zip`をダウンロードしてください
 
 配布zipの中の`letterpack`フォルダがModフォルダになっていますのでこれを`mods`フォルダに配置してください。  
+
+## 注意事項
+- レターパックでの送金は実際には禁止されています
